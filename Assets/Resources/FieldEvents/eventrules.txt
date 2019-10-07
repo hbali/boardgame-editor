@@ -1,0 +1,1 @@
+{"ruleChain":[{"rules":[{"name":"StepEvent","src":0,"trg":2,"obj":0}]},{"rules":[{"name":"GetMoneyEvent","src":1,"trg":2,"obj":1}]},{"rules":[{"name":"GiveMoneyEvent","src":2,"trg":1,"obj":1}]},{"rules":[{"name":"GetItemEvent","src":1,"trg":2,"obj":2}]},{"rules":[{"name":"LeftOutEvent","src":0,"trg":2,"obj":3}]}]}
